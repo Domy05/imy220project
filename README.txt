@@ -29,3 +29,9 @@ i think
 u must cd fronted to run these command
  npm run build       did this..
  then did npm start         also for react frontend
+
+
+
+docker run -p 5000:5000 imy220-app		this is to run the docker thing
+if an error shows then change the port number.
+the site must still be localhost 5000 wara wara
