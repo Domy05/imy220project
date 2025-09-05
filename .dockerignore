@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+dist
+frontend/node_modules
+frontend/public/bundle.js
+frontend/public/*.map
+backend/node_modules
+*.env
+.DS_Store
+.git
+.gitignore
+.dockerignore
